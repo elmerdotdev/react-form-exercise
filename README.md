@@ -17,3 +17,4 @@
 3. Run *npm install* to install the node packages
 4. Run *npm run dev* to run your React app using Vite
 5. Once your done with the exercise, push your changes to the dev branch and create a pull request from **dev** to **master**
+6. Add me as a Reviewer and merge your pull request
